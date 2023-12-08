@@ -11,13 +11,13 @@ import lombok.Data;
 public class User {
     Integer state = 2;
     Integer first = 0;
-    Integer uid = 114514;
-    String nickname = "田所浩二";
+    Integer uid = 4444;
+    String nickname = "反向暴走小废";
     Integer time = 114514;
-    String avatar = "http://127.0.0.1:5500/YJSNPI.png";
+    String avatar = "https://i0.hdslb.com/bfs/face/f621d4ee8b620a95fe0fe57d70be098bd2c024ee.jpg";
     Integer skin = 1;
-    String city = "下北泽";
-    String region = "东京都";
+    String city = "肇庆市";
+    String region = "广东省";
     Integer role = 2;
     Integer ts = Math.toIntExact(System.currentTimeMillis()/1000);
     Integer fail = 114514;
