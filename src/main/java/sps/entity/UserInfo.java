@@ -10,14 +10,14 @@ import lombok.Data;
 @Data
 public class UserInfo {
     String id = "6322824c4f8b51b7399c4f2f";
-    String created_at = "2022-09-15T01:39:24.708Z";
-    String updated_at = "2022-09-15T01:39:24.708Z";
+    String created_at = "1996-06-03T01:39:24.708Z";
+    String updated_at = "1996-06-03T01:39:24.708Z";
     Integer role = 2;
-    Integer uid = 114514;
-    String nick_name = "田所浩二";
-    String avatar = "http://127.0.0.1:5500/YJSNPI.png";
-    String wx_open_id = "YJSNPI";
-    String wx_union_id = "YJSNPI";
+    Integer uid = 4444;
+    String nick_name = "反向暴走小废";
+    String avatar = "https://i0.hdslb.com/bfs/face/f621d4ee8b620a95fe0fe57d70be098bd2c024ee.jpg";
+    String wx_open_id = "ZOOM";
+    String wx_union_id = "ZOOM";
     String last_login_time = null;
     String last_logout_time = null;
     Integer change_first_time = 0;
