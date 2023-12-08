@@ -14,7 +14,7 @@ public class User {
     Integer uid = 4444;
     String nickname = "反向暴走小废";
     Integer time = 114514;
-    String avatar = "https://i0.hdslb.com/bfs/face/f621d4ee8b620a95fe0fe57d70be098bd2c024ee.jpg";
+    String avatar = "https://sheep.nnnk.fun/zoom_pic.jpg";
     Integer skin = 1;
     String city = "肇庆市";
     String region = "广东省";
