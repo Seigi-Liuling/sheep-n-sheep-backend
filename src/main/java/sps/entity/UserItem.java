@@ -11,8 +11,8 @@ import lombok.Data;
 public class UserItem {
     String name = "名字";
     String pinyin = "mingzi";
-    Integer win_score = 114;
-    Integer fail_score = 514;
+    Integer win_score = 144;
+    Integer fail_score = 444;
     Integer all_score = win_score + fail_score;
     String result = "";
 }
