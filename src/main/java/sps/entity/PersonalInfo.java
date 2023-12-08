@@ -9,13 +9,13 @@ import lombok.Data;
  */
 @Data
 public class PersonalInfo {
-    Integer register_time = 1663205964;
-    String avatar = "http://127.0.0.1:5500/YJSNPI.png";
-    String nick_name =  "田所浩二";
-    Integer challenge = 63;
-    Integer uid = 114514;
-    Integer daily_count = 721;
-    Integer topic_count = 364364;
+    Integer register_time = 833763600;
+    String avatar = "https://i0.hdslb.com/bfs/face/f621d4ee8b620a95fe0fe57d70be098bd2c024ee.jpg";
+    String nick_name =  "扰动有效位能";
+    Integer challenge = 444;
+    Integer uid = 4444;
+    Integer daily_count = 444;
+    Integer topic_count = 44444;
     Integer today_state = 1;
     Integer today_ts = Math.toIntExact(System.currentTimeMillis() / 1000);
     Integer today_time = 114514;
